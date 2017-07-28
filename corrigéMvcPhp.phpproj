@@ -294,6 +294,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".idea" />
+    <Folder Include="src\" />
     <Folder Include="web\bower_components\bootstrap\dist\css\" />
     <Folder Include="web\bower_components\bootstrap\dist\fonts\" />
     <Folder Include="web\bower_components\bootstrap\dist\js\" />
